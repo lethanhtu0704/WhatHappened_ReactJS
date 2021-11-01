@@ -33,8 +33,8 @@ const Issue = props => {
                     <div className="brand-name"> C Brand </div>
                     <img src={brand2} className="issue_brand-img" alt="Brand Logo" />
                 </div>
-                <div className="issue_brand-item">
-                    <div className="brand-name"> D Brand </div>
+                <div className="issue_brand-item ">
+                    <div className="brand-name orange-background"> D Brand </div>
                     <img src={brand3} className="issue_brand-img" alt="Brand Logo" />
                 </div>
                 <div className="issue_brand-item">

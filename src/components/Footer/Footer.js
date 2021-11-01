@@ -8,7 +8,7 @@ const Footer = props => {
         <footer className="footer">
             <div className="container bottom_border">
                 <div className="row">
-                    <div className=" col-sm-4 col-md col-sm-4  col-12 col">
+                    <div className="col-xl-3 col-sm-4 col-lg-4 col-md-12 col-sm-4  col-12 col large-footer">
                         <h5 className="headin5_amrc col_white_amrc pt2">what happened</h5>
                         {/* headin5_amrc */}
                         <ul className="footer_ul_amrc">
@@ -19,10 +19,9 @@ const Footer = props => {
                             <li><a href="/#">[공지] 개인 정보 처리 방침 변경 사전 안내</a></li>
                         </ul>
                     </div>
-                    <div className=" col-sm-4 col-md-3 none-mobile  col-6 col">
-
+                    <div className="col-xl-5 col-sm-4 col-lg-5 col-md-0 none-mobile  col-6 col">
                     </div>
-                    <div className=" col-sm-4 col-md-1  col-6 col">
+                    <div className="col-xl-1 col-sm-4 col-md-3 col-lg-2  col-6 col">
                         <h5 className="headin5_amrc col_white_amrc pt2">about us</h5>
                         {/*headin5_amrc*/}
                         <ul className="footer_ul_amrc">
@@ -32,7 +31,7 @@ const Footer = props => {
                         </ul>
                         {/*footer_ul_amrc ends here*/}
                     </div>
-                    <div className=" col-sm-4 col-md-1  col-6 col">
+                    <div className="col-xl-1 col-sm-4 col-md-3 col-lg-2  col-6 col">
                         <h5 className="headin5_amrc col_white_amrc pt2">my order</h5>
                         {/*headin5_amrc*/}
                         <ul className="footer_ul_amrc">
@@ -45,7 +44,7 @@ const Footer = props => {
                         {/*footer_ul_amrc ends here*/}
                     </div>
 
-                    <div className=" col-sm-4 col-md-1  col-6 col">
+                    <div className="col-xl-1 col-sm-4 col-md-3 col-lg-2  col-6 col">
                         <h5 className="headin5_amrc col_white_amrc pt2">my acc</h5>
                         {/*headin5_amrc*/}
                         <ul className="footer_ul_amrc">
@@ -56,7 +55,7 @@ const Footer = props => {
                         </ul>
                         {/*footer_ul_amrc ends here*/}
                     </div>
-                    <div className=" col-sm-4 col-md-1  col-6 col">
+                    <div className="col-xl-1 col-sm-4 col-md-3 col-lg-2  col-6 col">
                         <h5 className="headin5_amrc col_white_amrc pt2">help</h5>
                         {/*headin5_amrc ends here*/}
                         <ul className="footer_ul_amrc">
